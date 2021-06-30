@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.0](https://www.github.com/googleapis/python-security-private-ca/compare/v0.4.0...v1.0.0) (2021-06-30)
+
+
+### Features
+
+* bump release level to production/stable ([#60](https://www.github.com/googleapis/python-security-private-ca/issues/60)) ([170f9be](https://www.github.com/googleapis/python-security-private-ca/commit/170f9be92448278064fd58f2a9302ca2f8c43b04))
+
 ## [0.4.0](https://www.github.com/googleapis/python-security-private-ca/compare/v0.3.0...v0.4.0) (2021-06-30)
 
 
